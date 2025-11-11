@@ -39,10 +39,8 @@ Something...
 
 
 
-
----
 > “Lo! Code be much like jest — if thou must explain it, the mirth is lost.”  
 > — *Sir Cory of House*
 
----
+
 > “In the forge of knowledge, may thy code be clean and thy commits ever righteous.” ⚔️
